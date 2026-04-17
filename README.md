@@ -44,5 +44,3 @@
 <img src="https://raw.githubusercontent.com/isaac-ps27/isaac-ps27/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
